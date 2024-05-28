@@ -8,4 +8,4 @@ Increasing scRNA-seq data in cardiovascular research have substantially improved
 ![](https://github.com/ComputationalEpigeneticsLab/SMTdb/blob/main/image/home.png)
 
 ## Database
-CardioAtlas is freely accessible at : http://bio-bigdata.hrbmu.edu.cn/SMTdb/
+SMTdb is freely accessible at : http://bio-bigdata.hrbmu.edu.cn/SMTdb/
